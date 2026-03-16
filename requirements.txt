@@ -11,6 +11,7 @@ charset-normalizer==3.4.6
 claude==0.4.11
 click==8.3.1
 colorama==0.4.6
+dotenv==0.9.9
 frozenlist==1.8.0
 gitdb==4.0.12
 GitPython==3.1.46
@@ -30,6 +31,7 @@ protobuf==6.33.5
 pyarrow==23.0.1
 pydeck==0.9.1
 python-dateutil==2.9.0.post0
+python-dotenv==1.2.2
 pytz==2026.1.post1
 referencing==0.37.0
 requests==2.32.5
