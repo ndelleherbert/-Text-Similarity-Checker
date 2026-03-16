@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 load_dotenv() # Load environment variables from .env file)
 
-vo = voyageai.Client(api_key =os.getenv("pa-iV0XlqCoiJob_RhJWed3ZbkzGOKhLOAIbYm304E2L7W")) # uses VOYAGE_API_KEY env var
+vo = voyageai.Client(api_key =os.getenv("voyageai_api_key")) # uses VOYAGE_API_KEY env var
 
 
 def get_embedding(text):
