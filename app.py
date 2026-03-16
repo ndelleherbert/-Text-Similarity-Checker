@@ -23,6 +23,3 @@ if st.button("Compare"):
             st.info("🟡 Somewhat similar")
         else:
             st.error("❌ Not very similar")
-
-
-
